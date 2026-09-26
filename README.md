@@ -4,7 +4,7 @@
 ### Full Stack Developer & Backend Engineer | Martech & Data Systems | Junior AI Engineer
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-dineshrbalaji--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dineshrbalaji-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dineshrbalaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshrbalaji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dineshrbalaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-r-balaji-166052238/)
 [![Email](https://img.shields.io/badge/Email-dineshrbalaji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshrbalaji@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917259634987)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-708090?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
