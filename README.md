@@ -89,17 +89,7 @@ I am a **Full Stack & Backend Developer** with **2+ years of production experien
 
 ---
 
-### 4. [Google Ads AI Copilot & Chatbot](https://github.com/Dineshbalaji25/Google-ADs-Chatbot)
-*Natural Language Operational Copilot for Paid Advertising Management*
-- **Tech Stack**: Python, Django, OpenAI API, LangChain, Google Ads API
-- **Highlights**:
-  - Developed an abstract `AdPlatformService` to decouple LLM tool calls from platform-specific SDKs.
-  - Translates conversational marketer queries into real-time campaign audits, negative keyword additions, and budget rebalancing commands.
-  - Enforces safety rails and dry-run confirmation protocols before applying mutations to live ad accounts.
-
----
-
-### 5. [Product Pricing Intelligence Pipeline](https://github.com/Dineshbalaji25/Data-Engineering-ETL-Pipeline)
+### 4. [Product Pricing Intelligence Pipeline](https://github.com/Dineshbalaji25/Data-Engineering-ETL-Pipeline)
 *Automated Daily ETL Scraping & Dimensional Modeling*
 - **Tech Stack**: Apache Airflow, Python, PostgreSQL, BeautifulSoup4, REST APIs
 - **Highlights**:
@@ -109,31 +99,13 @@ I am a **Full Stack & Backend Developer** with **2+ years of production experien
 
 ---
 
-### 6. [Z3 Intraday Momentum Trading Engine](https://github.com/Dineshbalaji25/Algo-Trading-bot)
+### 5. [Z3 Intraday Momentum Trading Engine](https://github.com/Dineshbalaji25/Algo-Trading-bot)
 *Real-Time Algorithmic Execution System*
 - **Tech Stack**: Python, Dhan Broker API, WebSockets, Pandas, NumPy
 - **Highlights**:
   - Real-time tick parsing via continuous WebSocket connections to the Dhan trading terminal.
   - Automated breakout detection, volatility filters, dynamic trailing stop-loss, and time-based EOD position squaring.
 
----
-
-### 7. [Developer Portfolio (React 18 + Vite)](https://github.com/Dineshbalaji25/Portfolio)
-*Interactive Verified Case Studies & Production Incident Deep-Dives*
-- **Live Site**: [dineshrbalaji-portfolio.vercel.app](https://dineshrbalaji-portfolio.vercel.app)
-- **Highlights**:
-  - 100% static production bundle with `@vercel/analytics`, zero server dependencies, and light/dark theme synchronization.
-  - Features an interactive Product ROAS simulator and full production postmortems with zero mockups.
-
----
-
-### 8. [Stringart.THOTFY — Algorithmic String Art Generator](https://github.com/Dineshbalaji25/String-Art)
-*Client-Side Computer Vision & Continuous Thread Synthesis Engine*
-- **Tech Stack**: JavaScript ES6+, OpenCV.js, NumJs, HTML5 Canvas, Web Speech API
-- **Highlights**:
-  - Browser-side greedy ray-tracing algorithm calculating continuous chord paths between 288 perimeter loom pins across 4,000+ passes.
-  - Non-blocking computer vision preprocessing: aspect-ratio cropping, circular luminance aperture masking, and line density optimization.
-  - Interactive physical crafting assistant with hands-free keyboard shortcuts and Web Speech audio guidance.
 
 ---
 
@@ -157,8 +129,8 @@ I am a **Full Stack & Backend Developer** with **2+ years of production experien
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dineshbalaji25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshbalaji25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dineshbalaji25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshbalaji25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /> -->
 
 <br/>
 
