@@ -176,7 +176,7 @@ I am a **Full Stack & Backend Developer** with **2+ years of production experien
   - Designed automated financial waterfall integrating Cashfree Payment Gateway and Zoho Books v3 API.
   - Achieved ~20% backend response time improvements via query optimization and composite indexing.
 
-- **Python Developer Intern** — **Emvega Technologies Pvt Ltd**, Bengaluru *(Aug 2023 – Dec 2024)*
+- **Backend Developer** — **Emvega Technologies Pvt Ltd**, Bengaluru *(Aug 2023 – Dec 2024)*
   - Developed RESTful API endpoints and backend microservices with Django and DRF.
   - Engineered ETL validation scripts for high-cardinality catalog data ingestion.
   - Provisioned and managed AWS infrastructure (EC2, S3, RDS).
