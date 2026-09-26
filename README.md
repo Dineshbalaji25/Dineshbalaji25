@@ -25,7 +25,7 @@
 
 ## 📌 Executive Summary
 
-I am a **Full Stack & Backend Developer** with **1.5+ years of production experience** architecting and scaling backend services for a live e-commerce marketplace ([Thotfy.com](https://thotfy.com)). My core focus is on:
+I am a **Full Stack & Backend Developer** with **2+ years of production experience** architecting and scaling backend services for a live e-commerce marketplace ([Thotfy.com](https://thotfy.com)). My core focus is on:
 
 - **High-Performance Backends**: Django, Django REST Framework, Django Oscar, and FastAPI with atomic transactions and complex database modeling.
 - **PostgreSQL Database Engineering**: Query plan tuning (`EXPLAIN ANALYZE`), index optimization (B-Tree, GIN), connection pooling, and emergency corruption remediation (MultiXactId wraparound recovery).
